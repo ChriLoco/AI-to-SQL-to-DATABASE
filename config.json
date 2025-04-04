@@ -1,0 +1,6 @@
+{
+  "POSTGRES": {
+    "table_name": "transactions",
+    "database_url": "YOUR POSTGRES CONNECTION STRING HERE"
+    }
+  }
